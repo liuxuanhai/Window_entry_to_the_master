@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPC_ShareMem", "IPC_ShareMem\IPC_ShareMem.vcproj", "{52620E6E-19F8-4E56-97F9-F52BF19724F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcproj", "{E49FC334-5780-4F49-BE24-795DF41A367A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52620E6E-19F8-4E56-97F9-F52BF19724F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52620E6E-19F8-4E56-97F9-F52BF19724F8}.Debug|Win32.Build.0 = Debug|Win32
+		{52620E6E-19F8-4E56-97F9-F52BF19724F8}.Release|Win32.ActiveCfg = Release|Win32
+		{52620E6E-19F8-4E56-97F9-F52BF19724F8}.Release|Win32.Build.0 = Release|Win32
+		{E49FC334-5780-4F49-BE24-795DF41A367A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E49FC334-5780-4F49-BE24-795DF41A367A}.Debug|Win32.Build.0 = Debug|Win32
+		{E49FC334-5780-4F49-BE24-795DF41A367A}.Release|Win32.ActiveCfg = Release|Win32
+		{E49FC334-5780-4F49-BE24-795DF41A367A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

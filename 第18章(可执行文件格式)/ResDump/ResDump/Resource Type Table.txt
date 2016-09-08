@@ -1,0 +1,20 @@
+
+
+
+Value	Resource			Type Meaning 
+1		RT_CURSOR			Hardware-dependent cursor resource 
+2		RT_BITMAP			Bitmap resource 
+3		RT_ICON				Hardware-dependent icon resource 
+4		RT_MENU				Menu resource 
+5		RT_DIALOG			Dialog box 
+6		RT_STRING			String-table entry 
+7		RT_FONTDIR			Font directory resource 
+8		RT_FONT				Font resource 
+9		RT_ACCELERATOR		Accelerator table 
+10		RT_RCDATA			Application-defined resource (raw data) 
+11		RT_MESSAGETABLE		Message-table entry 
+12		RT_GROUP_CURSOR		Hardware-independent cursor resource 
+14		RT_GROUP_ICON		Hardware-independent icon resource 
+16		RT_VERSION			Version resource 
+21		RT_ANICURSOR		Animated cursor 
+22		RT_ANIICON			Animated icon 

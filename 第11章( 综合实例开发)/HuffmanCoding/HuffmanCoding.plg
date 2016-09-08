@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: HuffmanCoding - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/HuffmanCoding.res" /d "_DEBUG" /d "_AFXDLL" "G:\[2]软件开发\Huffman编码软件（支持字符串、文件，支持多层嵌套编码）\HuffmanCoding.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP141.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/HuffmanCoding.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"G:\[2]软件开发\Huffman编码软件（支持字符串、文件，支持多层嵌套编码）\HuffmanCoding.cpp"
+"G:\[2]软件开发\Huffman编码软件（支持字符串、文件，支持多层嵌套编码）\HuffmanCodingDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP141.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP142.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/HuffmanCoding.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"G:\[2]软件开发\Huffman编码软件（支持字符串、文件，支持多层嵌套编码）\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP142.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP143.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/HuffmanCoding.pdb" /debug /machine:I386 /out:"Debug/HuffmanCoding.exe" /pdbtype:sept 
+".\Debug\HuffmanCoding.obj"
+".\Debug\HuffmanCodingDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\HuffmanCoding.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP143.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+HuffmanCoding.cpp
+HuffmanCodingDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+HuffmanCoding.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

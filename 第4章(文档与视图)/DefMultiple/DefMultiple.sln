@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DefMultiple", "DefMultiple\DefMultiple.vcproj", "{D55F4730-7977-4E5F-A650-F138828DE7E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55F4730-7977-4E5F-A650-F138828DE7E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D55F4730-7977-4E5F-A650-F138828DE7E2}.Debug|Win32.Build.0 = Debug|Win32
+		{D55F4730-7977-4E5F-A650-F138828DE7E2}.Release|Win32.ActiveCfg = Release|Win32
+		{D55F4730-7977-4E5F-A650-F138828DE7E2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

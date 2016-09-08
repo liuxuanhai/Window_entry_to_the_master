@@ -1,0 +1,246 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(中华人民共和国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\DES Tool.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\DES Tool.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 235, 49
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 DES Tool"
+FONT 9, "宋体", 0, 0, 0x0
+BEGIN
+    LTEXT           "fdsa",IDC_STATIC,9,10,184,12
+    LTEXT           "fdsafdsa",IDC_STATIC,12,25,172,13
+END
+
+IDD_DESTOOL_DIALOG DIALOGEX 0, 0, 316, 157
+STYLE DS_SETFONT | DS_MODALFRAME | WS_MINIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "[第11章]DES算法加密解密演示"
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    LTEXT           "原始字符串",IDC_STATIC,16,22,41,8
+    LTEXT           "加密字符串",IDC_STATIC,16,38,41,8
+    LTEXT           "解密字符串",IDC_STATIC,16,55,41,8
+    EDITTEXT        IDC_ORIDINAL_MSG,65,19,223,13,ES_AUTOHSCROLL
+    EDITTEXT        IDC_ENCRYPTED_MSG,65,35,223,13,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_DECRYPTED_MSG,65,52,223,13,ES_AUTOHSCROLL | ES_READONLY
+    GROUPBOX        "DES加密与解密字符串",IDC_STATIC,7,7,302,66
+    PUSHBUTTON      "B",IDC_BIN_ORI,292,19,12,14
+    PUSHBUTTON      "B",IDC_BIN_EN,292,35,12,14
+    PUSHBUTTON      "B",IDC_BIN_DE,292,52,12,14
+    GROUPBOX        "请输入密钥",IDC_STATIC,7,78,189,34
+    LTEXT           "密钥字符串",IDC_STATIC,16,94,49,12
+    EDITTEXT        IDC_PRIVATE_KEY,65,93,90,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "加密",IDC_ENCRYPTED,16,130,50,14
+    PUSHBUTTON      "解密",IDC_DECRYPTED,75,130,50,14
+    PUSHBUTTON      "B",IDC_BIN_KEY,161,92,12,14
+    GROUPBOX        "功能项",IDC_STATIC,7,117,302,34
+    PUSHBUTTON      "轮变换",IDC_SHOW_TRANS_PROC,134,130,50,14
+    PUSHBUTTON      "K",IDC_SHOW_SUB_KEY,178,92,12,14
+    CONTROL         131,IDC_STATIC,"Static",SS_BITMAP,206,81,90,32
+    PUSHBUTTON      "帮助",IDC_DES_INFO,195,130,50,14
+    PUSHBUTTON      "关于",IDC_ABOUT,255,130,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "FileDescription", "DES Tool Microsoft 基础类应用程序"
+            VALUE "FileVersion", "1, 0, 0, 1"
+            VALUE "InternalName", "DES Tool"
+            VALUE "LegalCopyright", "版权所有 (C) 2006"
+            VALUE "OriginalFilename", "DES Tool.EXE"
+            VALUE "ProductName", "DES Tool 应用程序"
+            VALUE "ProductVersion", "1, 0, 0, 1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 42
+    END
+
+    IDD_DESTOOL_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        VERTGUIDE, 16
+        VERTGUIDE, 65
+        VERTGUIDE, 288
+        VERTGUIDE, 292
+        VERTGUIDE, 304
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 150
+        HORZGUIDE, 64
+        HORZGUIDE, 106
+        HORZGUIDE, 144
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "res\\3.BMP"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DES
+//
+
+DES-INFO.CHM            DES                     "res\\DES-Info.chm"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// 24
+//
+
+1                       24                      "XPStyle.manifest"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 DES Tool(&A)..."
+END
+
+#endif    // 中文(中华人民共和国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\DES Tool.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

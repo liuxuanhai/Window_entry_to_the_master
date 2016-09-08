@@ -1,0 +1,252 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\RSA_Tool.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\RSA_Tool.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 56
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 RSA_Tool"
+FONT 9, "宋体"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,7,3,221,48
+    LTEXT           "   本工具可以应用于Windows 2000以上的平台，可以实现RSA的大素数、密钥的自动选取，密钥长度最高达4096位，并可以作相应的加密与解密的测试。",
+                    IDC_STATIC,12,12,211,23
+END
+
+IDD_RSA_TOOL_DIALOG DIALOGEX 0, 0, 309, 285
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "[第8章]RSA算法加密解密演示"
+FONT 9, "宋体"
+BEGIN
+    PUSHBUTTON      "Exit",IDCANCEL,231,264,50,14
+    GROUPBOX        "Big Primes",IDC_STATIC,7,34,295,50
+    EDITTEXT        IDC_FIRST_PRIME,54,45,239,14,ES_UPPERCASE | 
+                    ES_AUTOHSCROLL
+    EDITTEXT        IDC_SECOND_PRIME,54,64,239,14,ES_UPPERCASE | 
+                    ES_AUTOHSCROLL
+    LTEXT           "First [P]",IDC_STATIC,12,48,42,8
+    LTEXT           "Second[Q]",IDC_STATIC,12,66,42,8
+    GROUPBOX        "Initial Options",IDC_STATIC,7,4,295,28
+    LTEXT           "KeySize [bits] :",IDC_STATIC,12,16,65,8
+    COMBOBOX        IDC_KEYSIZE,81,14,61,119,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "PublicKey[E](hex):",IDC_STATIC,152,16,73,8
+    GROUPBOX        "Public Key [ N = P * Q ]",IDC_STATIC,7,87,295,32
+    EDITTEXT        IDC_PUBLICKEY_N,54,98,239,14,ES_UPPERCASE | 
+                    ES_AUTOHSCROLL | ES_READONLY
+    PUSHBUTTON      "Generate",IDC_GENERATE_N,12,98,37,14
+    GROUPBOX        "Private Key [ D = E' MOD ((P-1)(Q-1)) ]",IDC_STATIC,7,
+                    121,295,32
+    EDITTEXT        IDC_PRIVATEKEY_D,54,133,239,14,ES_UPPERCASE | 
+                    ES_AUTOHSCROLL | ES_READONLY
+    PUSHBUTTON      "Generate",IDC_GENERATE_D,12,133,37,14
+    GROUPBOX        "Original Message ( M )",IDC_STATIC,7,156,295,32
+    EDITTEXT        IDC_ORGINAL_MESSAGE,54,167,239,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Generate",IDC_RAND_GENERATE_MESSAGE,12,167,37,14
+    GROUPBOX        "Encrypt Message ( C = M exp(E) MOD N )",IDC_STATIC,7,
+                    190,295,32
+    EDITTEXT        IDC_ENCRYPTED_MESSAGE,54,202,239,14,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Encrypt",IDC_DO_ENCRYPT,12,202,37,14
+    GROUPBOX        "Decrypt Message ( M = C exp(D) MOD N )",IDC_STATIC,7,
+                    227,295,32
+    EDITTEXT        IDC_DECRYPTED_MESSAGE,54,239,239,14,ES_AUTOHSCROLL | 
+                    ES_READONLY
+    PUSHBUTTON      "Decrypt",IDC_DO_DECRYPT,12,239,37,14
+    PUSHBUTTON      "Generate",IDC_GENERATE_TOTAL,133,264,50,14
+    EDITTEXT        IDC_PUBLICKEY_E,227,14,65,13,ES_UPPERCASE | 
+                    ES_AUTOHSCROLL
+    PUSHBUTTON      "About",IDC_ABOUTDLG,35,264,50,14
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "RSA_Tool Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "RSA_Tool\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2006\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "RSA_Tool.EXE\0"
+            VALUE "ProductName", "RSA_Tool 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 3
+        BOTTOMMARGIN, 51
+    END
+
+    IDD_RSA_TOOL_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 302
+        VERTGUIDE, 12
+        VERTGUIDE, 54
+        VERTGUIDE, 292
+        VERTGUIDE, 302
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 278
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// 24
+//
+
+1                       24      DISCARDABLE     "XPStyle.manifest"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 RSA_Tool(&A)..."
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\RSA_Tool.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

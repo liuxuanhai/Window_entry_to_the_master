@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CtlEdit", "CtlEdit\CtlEdit.vcproj", "{F79AF562-4141-404D-9B8C-8B1E466AE03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79AF562-4141-404D-9B8C-8B1E466AE03D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F79AF562-4141-404D-9B8C-8B1E466AE03D}.Debug|Win32.Build.0 = Debug|Win32
+		{F79AF562-4141-404D-9B8C-8B1E466AE03D}.Release|Win32.ActiveCfg = Release|Win32
+		{F79AF562-4141-404D-9B8C-8B1E466AE03D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3380 @@
+ThreadId : 0
+	OwnerProcessID : 0
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 0
+ThreadId : 0
+	OwnerProcessID : 0
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 0
+ThreadId : 8
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 0
+ThreadId : 16
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 20
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 24
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 28
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 32
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 36
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 12
+ThreadId : 40
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 12
+ThreadId : 44
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 12
+ThreadId : 48
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 12
+ThreadId : 52
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 12
+ThreadId : 56
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 12
+ThreadId : 60
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 12
+ThreadId : 64
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 68
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 14
+ThreadId : 72
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 76
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 80
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 84
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 88
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 92
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 96
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 100
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 104
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 108
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 112
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 116
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 120
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 124
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 128
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 132
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 136
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 140
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 144
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 148
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 152
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 156
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 168
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 172
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 176
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 180
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 188
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 232
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 236
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 240
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 272
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 276
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 280
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 284
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 288
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 292
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 296
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 300
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 308
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 424
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 432
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 436
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 444
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1884
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1888
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1892
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1896
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1904
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 268
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 316
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 320
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 4052
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4056
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4060
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4064
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4068
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4072
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 11
+ThreadId : 4076
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4936
+	OwnerProcessID : 4
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 452
+	OwnerProcessID : 448
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 11
+ThreadId : 456
+	OwnerProcessID : 448
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 11
+ThreadId : 460
+	OwnerProcessID : 448
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 11
+ThreadId : 728
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 732
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 736
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 740
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 752
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 756
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 760
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 816
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 832
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 684
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 688
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 2864
+	OwnerProcessID : 716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 748
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 772
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 776
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 784
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 796
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 964
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 968
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 972
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 1544
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 1656
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 1664
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 11
+ThreadId : 1684
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 1860
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 1864
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 1
+ThreadId : 2908
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 1
+ThreadId : 3012
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 3072
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 3080
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 940
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 3804
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 3136
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 4540
+	OwnerProcessID : 744
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 820
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 824
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 828
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 920
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 932
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 936
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1024
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1080
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1532
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1556
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1560
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 696
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1420
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1388
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 2592
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 224
+	OwnerProcessID : 788
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 836
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 840
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 848
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 852
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 864
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 884
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 888
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 896
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 912
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 916
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 944
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 960
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1520
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 2012
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 196
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 11
+ThreadId : 212
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 220
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 2840
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 2572
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 4012
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 5860
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 6032
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1916
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 3596
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 3400
+	OwnerProcessID : 808
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 988
+	OwnerProcessID : 984
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 992
+	OwnerProcessID : 984
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 996
+	OwnerProcessID : 984
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1000
+	OwnerProcessID : 984
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1004
+	OwnerProcessID : 984
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1008
+	OwnerProcessID : 984
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1016
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1044
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1052
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1056
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1488
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1492
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 344
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 356
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 352
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 360
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 364
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 368
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 372
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 376
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 380
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 388
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2548
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1376
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 496
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4852
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5440
+	OwnerProcessID : 1012
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1064
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1068
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1216
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1224
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1228
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1268
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1276
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1028
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1128
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2308
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5880
+	OwnerProcessID : 1060
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1076
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1104
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1108
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1132
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1136
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1144
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1148
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1152
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1156
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1160
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 1
+ThreadId : 1168
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 1
+ThreadId : 1172
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1176
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 1
+ThreadId : 1180
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 1
+ThreadId : 1184
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1188
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1192
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1196
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 1200
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 1208
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1212
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1240
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1244
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1280
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1288
+	OwnerProcessID : 1072
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1236
+	OwnerProcessID : 1232
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1264
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1428
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1432
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1436
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1440
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1444
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1456
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2336
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3048
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2580
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3776
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4404
+	OwnerProcessID : 1260
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1500
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1504
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1508
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1512
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1516
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1528
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1568
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1624
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1748
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1760
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1780
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1784
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1788
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1792
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1796
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1804
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1880
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1976
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1992
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2000
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2004
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2020
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 328
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 396
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 400
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 260
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 576
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 596
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1032
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1020
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1572
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1576
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1652
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1364
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1396
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1412
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1384
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1952
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2028
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2032
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2036
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2872
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2896
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2912
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3480
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3912
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 312
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2120
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3792
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3088
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2504
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4040
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2128
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2940
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3680
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2072
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2076
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3032
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3956
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2472
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1088
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 812
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2812
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2432
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 872
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 3640
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2820
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3228
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3568
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3156
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2408
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3500
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1040
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1476
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5688
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4932
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 908
+	OwnerProcessID : 1496
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1592
+	OwnerProcessID : 1588
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1596
+	OwnerProcessID : 1588
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1612
+	OwnerProcessID : 1588
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1616
+	OwnerProcessID : 1588
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2960
+	OwnerProcessID : 1588
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2596
+	OwnerProcessID : 1588
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2200
+	OwnerProcessID : 1588
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1680
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1692
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1696
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1708
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1908
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1912
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4084
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 164
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 340
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 412
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 416
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1352
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2676
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3108
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1636
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3096
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5100
+	OwnerProcessID : 1676
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1924
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1928
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1932
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1936
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1632
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1640
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1668
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1660
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1672
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1096
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1688
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1716
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1728
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1732
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1292
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1272
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1284
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1300
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1304
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1308
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1336
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1356
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1360
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1752
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1700
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2244
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2768
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3164
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1996
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 664
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1564
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1644
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 692
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2288
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3064
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3700
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3916
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 216
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3676
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2936
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3828
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2904
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 956
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2644
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 6052
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5120
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5024
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5580
+	OwnerProcessID : 1920
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1944
+	OwnerProcessID : 1940
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1948
+	OwnerProcessID : 1940
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1956
+	OwnerProcessID : 1940
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1960
+	OwnerProcessID : 1940
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1968
+	OwnerProcessID : 1940
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1972
+	OwnerProcessID : 1940
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 248
+	OwnerProcessID : 244
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 256
+	OwnerProcessID : 244
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 264
+	OwnerProcessID : 244
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 536
+	OwnerProcessID : 244
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 540
+	OwnerProcessID : 244
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 544
+	OwnerProcessID : 244
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 572
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 588
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 592
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 600
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 616
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 620
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 624
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 628
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 652
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 764
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 532
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 860
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 980
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1340
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4008
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2132
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 768
+	OwnerProcessID : 568
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 612
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 632
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 640
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 644
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 680
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2232
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2268
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2668
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2680
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2684
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2688
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2692
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2712
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2736
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2740
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2744
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2748
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2752
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2756
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3116
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2540
+	OwnerProcessID : 608
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1404
+	OwnerProcessID : 1372
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1408
+	OwnerProcessID : 1372
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1400
+	OwnerProcessID : 1372
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1416
+	OwnerProcessID : 1372
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1776
+	OwnerProcessID : 1372
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1768
+	OwnerProcessID : 1372
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1808
+	OwnerProcessID : 1372
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2240
+	OwnerProcessID : 2236
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2252
+	OwnerProcessID : 2236
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2256
+	OwnerProcessID : 2236
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2260
+	OwnerProcessID : 2236
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2264
+	OwnerProcessID : 2236
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2312
+	OwnerProcessID : 2236
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2364
+	OwnerProcessID : 2236
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2732
+	OwnerProcessID : 2716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2776
+	OwnerProcessID : 2716
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3092
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3392
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3416
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 3420
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3428
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3472
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3936
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4044
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4048
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 476
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 3744
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 404
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 900
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3888
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3644
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3808
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5520
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4300
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5512
+	OwnerProcessID : 3084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3196
+	OwnerProcessID : 3192
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3244
+	OwnerProcessID : 3192
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3248
+	OwnerProcessID : 3192
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3256
+	OwnerProcessID : 3192
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3348
+	OwnerProcessID : 3192
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2824
+	OwnerProcessID : 3192
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 192
+	OwnerProcessID : 4092
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1848
+	OwnerProcessID : 4092
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2112
+	OwnerProcessID : 4092
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 480
+	OwnerProcessID : 668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1480
+	OwnerProcessID : 668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 700
+	OwnerProcessID : 668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2916
+	OwnerProcessID : 668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1628
+	OwnerProcessID : 668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1484
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2172
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2216
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2188
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2304
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2300
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2348
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2344
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2480
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2560
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2588
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 2784
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2836
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 724
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 2876
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3404
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 2460
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2380
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1604
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4764
+	OwnerProcessID : 844
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1856
+	OwnerProcessID : 1836
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2160
+	OwnerProcessID : 1836
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2152
+	OwnerProcessID : 1836
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2360
+	OwnerProcessID : 1836
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2632
+	OwnerProcessID : 1836
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1844
+	OwnerProcessID : 1832
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2284
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2296
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2292
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2316
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2320
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2280
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2324
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3372
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3772
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3964
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3968
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 252
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1328
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2448
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 780
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2136
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3984
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2584
+	OwnerProcessID : 2248
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3060
+	OwnerProcessID : 3056
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 2952
+	OwnerProcessID : 3056
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 3124
+	OwnerProcessID : 3056
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 3132
+	OwnerProcessID : 3056
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 13
+ThreadId : 3704
+	OwnerProcessID : 3708
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3736
+	OwnerProcessID : 3708
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3780
+	OwnerProcessID : 3708
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3880
+	OwnerProcessID : 3708
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3904
+	OwnerProcessID : 3908
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3892
+	OwnerProcessID : 3908
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3872
+	OwnerProcessID : 3908
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3864
+	OwnerProcessID : 3908
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 160
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4028
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4004
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 228
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 384
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1124
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 1648
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 332
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 556
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2564
+	OwnerProcessID : 4088
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3672
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3732
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3688
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3752
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3756
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 3660
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3716
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3696
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3604
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3648
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3692
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3728
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3720
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3468
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3624
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2124
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 1876
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1872
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1868
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3496
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 420
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2600
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2612
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 804
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2924
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2808
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 464
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3380
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2080
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3236
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3664
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 472
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 484
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3980
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3564
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3840
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3652
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2040
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 656
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3952
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3556
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3900
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1452
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3848
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3620
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1824
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2396
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2524
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3452
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2272
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2828
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 2764
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3076
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2068
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2636
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3932
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1740
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2016
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3288
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2996
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3208
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1472
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3384
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3484
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3884
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5736
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5680
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3960
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3488
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4568
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4564
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5368
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 720
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5560
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5644
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2728
+	OwnerProcessID : 3668
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 856
+	OwnerProcessID : 2084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2920
+	OwnerProcessID : 2084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 876
+	OwnerProcessID : 2084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2660
+	OwnerProcessID : 2084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2672
+	OwnerProcessID : 2084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3352
+	OwnerProcessID : 2084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 3360
+	OwnerProcessID : 2084
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 488
+	OwnerProcessID : 2620
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2352
+	OwnerProcessID : 1820
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3336
+	OwnerProcessID : 1820
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3436
+	OwnerProcessID : 1820
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3992
+	OwnerProcessID : 1820
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4788
+	OwnerProcessID : 1820
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3832
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2976
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2708
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 392
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3448
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2452
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3252
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3276
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 7
+ThreadId : 2552
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 7
+ThreadId : 2616
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 7
+ThreadId : 1852
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 7
+ThreadId : 3104
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3608
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 2116
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3456
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 1448
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 15
+ThreadId : 3148
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 3388
+	OwnerProcessID : 2720
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 6
+ThreadId : 2388
+	OwnerProcessID : 3464
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 6044
+	OwnerProcessID : 6024
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4596
+	OwnerProcessID : 6024
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 6068
+	OwnerProcessID : 6024
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 880
+	OwnerProcessID : 6024
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5180
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4996
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4928
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 4980
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5256
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 7
+ThreadId : 5000
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3052
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3516
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 2500
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 10
+ThreadId : 2468
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5252
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5224
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5300
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5304
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5276
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5548
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 9
+ThreadId : 5260
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 3636
+	OwnerProcessID : 2640
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 6
+ThreadId : 5500
+	OwnerProcessID : 5564
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8
+ThreadId : 5524
+	OwnerProcessID : 4116
+	Usage          : 0
+	Delta Priority : 0
+	Base Priority  : 8

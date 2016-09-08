@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SockMon", "SockMon\SockMon.vcproj", "{E68B41A7-59AF-4C11-92C5-2A72EDE55B97}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LSP", "LSP\LSP.vcproj", "{60265E71-581E-4103-A192-0ED88621877E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E68B41A7-59AF-4C11-92C5-2A72EDE55B97}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E68B41A7-59AF-4C11-92C5-2A72EDE55B97}.Debug|Win32.Build.0 = Debug|Win32
+		{E68B41A7-59AF-4C11-92C5-2A72EDE55B97}.Release|Win32.ActiveCfg = Release|Win32
+		{E68B41A7-59AF-4C11-92C5-2A72EDE55B97}.Release|Win32.Build.0 = Release|Win32
+		{60265E71-581E-4103-A192-0ED88621877E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{60265E71-581E-4103-A192-0ED88621877E}.Debug|Win32.Build.0 = Debug|Win32
+		{60265E71-581E-4103-A192-0ED88621877E}.Release|Win32.ActiveCfg = Release|Win32
+		{60265E71-581E-4103-A192-0ED88621877E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+To build the CM application, you must compile and link the modules 
+together, and with the MIRACL library.
+
+So for Borland C++
+
+bcc32 cm.cpp poly.cpp fpoly.cpp comflash.cpp flash.cpp big.cpp monty.cpp 
+elliptic.cpp miracl.lib
+
+On UNIX using g++, something like
+
+g++ -I. -c poly.cpp
+g++ -I. -c fpoly.cpp
+g++ -I. -c comflash.cpp
+
+
+g++ -I. cm.cpp poly.o fpoly.o comflash.o flash.o big.o monty.o elliptic.o
+miracl.a /usr/lib/libm.a -o cm
+
+should work
+
+
+Note that the headers poly.h, fpoly.h and comflash.h are assumed to be in 
+the local directiory
+
+*** New - Numerical stability problems fixed - tested for D up to 10^7
+

@@ -1,0 +1,79 @@
+MIRACL is a highly efficient and portable Multiprecision Integer and Rational 
+Arithmetic C/C++ Library. Full source code is provided. Its main area of 
+application is in the implementation of Public Key Cryptography systems and
+protocols. Many example programs are provide. 
+
+The MIRACL library can be used freely for Academic, non-profit making or 
+non-commercial use. Commercial Users must register.
+
+The term "commercial use" means any for-profit use of the MIRACL library.
+Any commercial use of MIRACL requires a license which may be obtained from
+Shamus Software Ltd
+
+Single user license 1,000 euro for first developer/workstation.
+Per additional user 500 euro
+Server license 5,000
+Updates are free.
+
+LICENSE TYPES
+
+Single user license
+MIRACL is installed and used on one single machine, which may not be used as
+a server.
+
+Server license
+MIRACL is installed and used on one server machine and there is no limit on
+the number of clients.
+
+When buying any kind of license, you have the right to install and to
+develop your own programs using MIRACL. You are also allowed to sell the
+binaries of your own programs that have been compiled using MIRACL. There
+are no runtime royalties. All licenses are non-exclusive.
+If you sell software that was developed using MIRACL, there is no
+requirement to cite MIRACL.
+
+Redistributing your copy of MIRACL to a third party is not allowed.
+A commercial license for the installation and use of MIRACL is always given
+for one machine. Installing or copying the software to another machine is
+not allowed.
+
+For more information contact mscott@indigo.ie .
+
+
+Some Public-Domain sources and executables that use the MIRACL library
+are also included in this package.
+
+The address for correspondence is:- 
+
+Shamus Software Ltd,
+4 Foster Place Notrth,
+Ballybough
+Dublin 3
+Ireland
+
+Contact: Michael Scott
+Phone (353) 1 7045537
+FAX   (353) 1 7045442
+EMAIL mscott@indigo.ie
+
+To access the software, download the file miracl.zip.
+The latest version can always be obtained from 
+ftp://ftp.computing.dcu.ie/pub/crypto/miracl.zip
+To decompress into an MSDOS directory MIRACL, execute the command 
+
+pkunzip -d miracl
+
+This creates a suitable sub-directory structure within the MIRACL directory.
+
+
+If using MS Visual C++ on a PC, read msvisual.txt
+
+If using Linux, read linux.txt
+
+
+The manual is supplied in PostScript format, in MANUAL.ZIP (available from 
+the download site), and in MS WordFormat as MANUAL.DOC
+
+Latest Version - V4.7  Last updated December 2002
+
+

@@ -1,0 +1,39 @@
+
+The super-fast 80x86/Pentium KCM and Comba methods are only fully supported
+for the Borland C compiler/TASM combination. This is because the modules 
+mrcomba.c and mrkcm.c require not only in-line assembly, but in-line 
+macro-assembly. This is supported by the Borland Compiler+TASM, but not by 
+the Microsoft compiler, which only supports simple in-line assembly.
+
+
+Fortunately the object formats appear, if not to be the same, at least to be 
+compatible, so a file compiled by Borland can be linked to by Microsoft.
+
+
+The following has been tested using Borland C V4.5 32-bit compiler and the TASM
+macro-assembler Version 4.1, and Microsoft C++ Versions 5 and 6 32-bit 
+compilers. Also tested with the latest Borland V5.51 (available free from 
+www.borland.com - but note that TASM isn't free). 
+
+
+1. Compile config.c using the Borland Compiler.
+   d:>bcc32 config.c
+2. Run it to generate a mirdef.h file which invokes either the KCM or Comba
+   code.
+3. Use the Borland C compiler to compile mrkcm.c or mrcomba.c:-
+   d:>bcc32 -c -B mrkcm.c, or
+   d:>bcc32 -c -B mrcomba
+   You will need to have the Borland assembler TASM available, as the compiler
+   passes off the job to the macro-assembler.
+4. Create a Microsoft C MIRACL library using the same mirdef.h file and all 
+   the modules specified in miracl.lst, EXCEPT the module mrkcm.c/mrcomba.c 
+5. Use the Microsoft Librarian utility to insert the appropriate module into 
+   the library:-
+   d:>lib /OUT:miracl.lib miracl.lib mrkcm.obj, or
+   d:>lib /OUT:miracl.lib miracl.lib mrcomba.obj
+   It makes a format change, from OMF to COFF
+
+
+The miracl.lib file is now ready for use by your Microsoft C/C++ applications.
+
+

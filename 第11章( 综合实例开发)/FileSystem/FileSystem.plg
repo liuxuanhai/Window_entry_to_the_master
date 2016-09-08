@@ -1,0 +1,69 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: FileSystem - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/FileSystem.res" /d "_DEBUG" /d "_AFXDLL" "E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\FileSystem.rc"" 
+Creating temporary file "C:\DOCUME~1\北极星~1\LOCALS~1\Temp\RSPAC.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/FileSystem.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\AddDirDlg.cpp"
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\AddUserDlg.cpp"
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\FAT.CPP"
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\FileDlg.cpp"
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\LogDlg.cpp"
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\ShowUserDlg.cpp"
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\System.cpp"
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\FileSystem.cpp"
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\FileSystemDlg.cpp"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\北极星~1\LOCALS~1\Temp\RSPAC.tmp"" 
+Creating temporary file "C:\DOCUME~1\北极星~1\LOCALS~1\Temp\RSPAD.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/FileSystem.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\工作\科研项目\2006年科研成果申报\基于Windows的二级文件系统开发\FileSystem Source File\StdAfx.cpp"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\北极星~1\LOCALS~1\Temp\RSPAD.tmp"" 
+Creating temporary file "C:\DOCUME~1\北极星~1\LOCALS~1\Temp\RSPAE.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/FileSystem.pdb" /debug /machine:I386 /out:"Debug/FileSystem.exe" /pdbtype:sept 
+".\Debug\AddDirDlg.obj"
+".\Debug\AddUserDlg.obj"
+".\Debug\FAT.OBJ"
+".\Debug\FileDlg.obj"
+".\Debug\LogDlg.obj"
+".\Debug\ShowUserDlg.obj"
+".\Debug\System.obj"
+".\Debug\FileSystem.obj"
+".\Debug\FileSystemDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\FileSystem.res"
+]
+Creating command line "link.exe @"C:\DOCUME~1\北极星~1\LOCALS~1\Temp\RSPAE.tmp""
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+AddDirDlg.cpp
+AddUserDlg.cpp
+FAT.CPP
+FileDlg.cpp
+LogDlg.cpp
+ShowUserDlg.cpp
+System.cpp
+FileSystem.cpp
+FileSystemDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+FileSystem.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,95 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: File Divide - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/File Divide.res" /d "NDEBUG" /d "_AFXDLL" "E:\！北极星2003\资料\MyProjects\软件设计\File Divide\File Divide.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6A.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/File Divide.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\！北极星2003\资料\MyProjects\软件设计\File Divide\FD.cpp"
+"E:\！北极星2003\资料\MyProjects\软件设计\File Divide\File Divide.cpp"
+"E:\！北极星2003\资料\MyProjects\软件设计\File Divide\File DivideDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6A.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6B.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/File Divide.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\！北极星2003\资料\MyProjects\软件设计\File Divide\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6B.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6C.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/File Divide.pdb" /machine:I386 /out:"Release/File Divide.exe" 
+".\Release\FD.obj"
+".\Release\File Divide.obj"
+".\Release\File DivideDlg.obj"
+".\Release\StdAfx.obj"
+".\Release\File Divide.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6C.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+FD.cpp
+File Divide.cpp
+File DivideDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+File Divide.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: File Divide - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/File Divide.res" /d "_DEBUG" /d "_AFXDLL" "E:\！北极星2003\资料\MyProjects\软件设计\File Divide\File Divide.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6E.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/File Divide.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\！北极星2003\资料\MyProjects\软件设计\File Divide\FD.cpp"
+"E:\！北极星2003\资料\MyProjects\软件设计\File Divide\File Divide.cpp"
+"E:\！北极星2003\资料\MyProjects\软件设计\File Divide\File DivideDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6E.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6F.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/File Divide.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\！北极星2003\资料\MyProjects\软件设计\File Divide\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP6F.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP70.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/File Divide.pdb" /debug /machine:I386 /out:"Debug/File Divide.exe" /pdbtype:sept 
+".\Debug\FD.obj"
+".\Debug\File Divide.obj"
+".\Debug\File DivideDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\File Divide.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP70.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+FD.cpp
+File Divide.cpp
+File DivideDlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+File Divide.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

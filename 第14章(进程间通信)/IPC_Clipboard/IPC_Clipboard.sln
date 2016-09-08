@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPC_Clipboard_Write", "IPC_Clipboard\IPC_Clipboard.vcproj", "{07978B82-D37A-4738-BBF8-173067875FB7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPC_Clipboard_Read", "IPC_Clipboard_Read\IPC_Clipboard_Read.vcproj", "{BEB37EDD-97D5-4D10-BC44-02AA089EB22A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07978B82-D37A-4738-BBF8-173067875FB7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07978B82-D37A-4738-BBF8-173067875FB7}.Debug|Win32.Build.0 = Debug|Win32
+		{07978B82-D37A-4738-BBF8-173067875FB7}.Release|Win32.ActiveCfg = Release|Win32
+		{07978B82-D37A-4738-BBF8-173067875FB7}.Release|Win32.Build.0 = Release|Win32
+		{BEB37EDD-97D5-4D10-BC44-02AA089EB22A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BEB37EDD-97D5-4D10-BC44-02AA089EB22A}.Debug|Win32.Build.0 = Debug|Win32
+		{BEB37EDD-97D5-4D10-BC44-02AA089EB22A}.Release|Win32.ActiveCfg = Release|Win32
+		{BEB37EDD-97D5-4D10-BC44-02AA089EB22A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

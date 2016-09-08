@@ -1,0 +1,128 @@
+IBE
+
+This Identity Based Encryption method was invented by Boneh & Franklin. See 
+http://crypto.stanford.edu/ibe/ for more details.
+
+This demonstration implementation consists of four programs that implement 
+each of the four steps in the algorithm. The source code is intended to be 
+read in conjunction with the academic paper which describes the method. The 
+clarity of C++ make the code very readable, and easy to associate with the 
+mathematical description.
+
+
+Tested with MS C++, Borland C++ and the DJGPP port of gcc
+
+
+Function: SETUP
+
+Source File: ibe_set.cpp
+
+This program generates suitable random global domain parameters, and stores 
+them in the file common.ibe. The Master key is stored in master.ibe
+
+Compile as (for example with MS C++)
+
+cl /O2 /GX ibe_set.cpp zzn2.cpp big.cpp monty.cpp elliptic.cpp miracl.lib
+
+
+
+Function: EXTRACT
+
+Source File: ibe_ext.cpp
+
+This program extracts a private (secret) key from the proffered identity 
+string, and stores it in the file private.ibe
+
+Compile as 
+
+cl /O2 /GX ibe_ext.cpp big.cpp monty.cpp elliptic.cpp miracl.lib
+
+
+
+Function: ENCRYPT
+
+Source File: ibe_enc.cpp
+
+This program accepts the identity of the recipient (which is his public key), 
+and encrypts a file.
+
+Compile as 
+
+cl /O2 /GX ibe_enc.cpp zzn2.cpp big.cpp monty.cpp elliptic.cpp miracl.lib
+
+
+
+Function: DECRYPT
+
+Source File: ibe_dec.cpp
+
+This program decrypts a file using the private key from private.ibe
+
+Compile as (for example with MS C++)
+
+cl /O2 /GX ibe_dec.cpp zzn2.cpp big.cpp monty.cpp elliptic.cpp miracl.lib
+
+
+
+Run the four programs in the order above, and encrypt a file to yourself!
+
+
+For fastest speed on a 32-bit processor, select a Comba build in config.c, 
+optimized for a 512-bit modulus. Also use the /DBIGS=n flag when compiling, to 
+allocate space for Big variables from the stack.  
+
+Several optimizations suggested by the inventors themselves have been 
+implemented
+
+(1) : This implementation uses a 512-bit prime p (for effective 1024-bit 
+      security).
+(2) : We use the faster Tate pairing
+(3) : A small 160-bit sub-group q is used, where p=aq-1
+
+
+New idea - Use a fixed simple group order q = 2^159+2^17+1
+To use this define SIMPLE in ibe_set.cpp/ibe_enc.cpp/ibe_dec.cpp
+
+This simplifies and speeds the code by about 20%
+
+Also notice that in the final exponentiation in the Tate Pairing, we are 
+calculating
+
+res^(p-1) mod p, where res = (u,v) is in Fp2
+
+This can be replaced by (u,-v)/(u,v) - which is much faster
+
+Latest idea (thanks for the inspiration Paulo) is to use the alternative curve 
+mentioned in the IBE paper, so instead of the supersingular curve y^2=x^3+1, 
+use y^2=x^3+x. The isomorphism in this case is (x,y) -> (-x,iy), where i is 
+the square root of -1. This keeps x "simple", and in Fp. The "denominator" 
+calculation in Miller's algorithm only uses x, and so it too is in Fp. So the 
+final exponentiation to the power of p-1 wipes it out - x^p-1 mod p = 1 
+(thanks Fermat). So all denominator calculations can be excised.
+
+This is substantially faster, and is implemented in the files ibe_setx.cpp, 
+ibe_extx.cpp, ibe_encx.cpp, ibe_decx.cpp.
+
+Further optimizations are based on this alternative curve...
+
+PRECOMPUTATION
+
+ibe_exp.cpp
+
+This version uses precomputation to speed up encryption, based on the fixed
+Trusted Authorities Public Key. If encrypting several emails to several 
+correspondents, this will be much faster. Downside - 8K words of memory 
+required to store tables.
+
+NEW November 2002
+
+New hack speeds up IBE encryption. When mapping an ID to a curve point there 
+is a time-consuming point multiplication by a large co-factor cf to make the 
+point have the required prime order q. For example when p is 512 bits and q 160 
+bits, this requires a point multiplication on a 512-bit curve by a 352-bit 
+number c. 
+
+In fact this is not required, as the second argument to the Tate Pairing 
+need not be of order q! Bilinearity still holds, so e(P,c.Q) = e(P,Q)^c. 
+Therefore the unmapped point can be used directly.
+
